@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 1. Clone this repository.
 2. Install dependencies using `npm install`.
 3. Set up MongoDB and update the connection string in the configuration.
-4. Run the application using `npm start`.
+4. Run the application using `nodemon app.js`.
 5. Access the application at `http://localhost:your-port`.
 
 ## Contributing
